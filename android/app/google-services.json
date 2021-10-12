@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393369358666",
+    "project_id": "sismoapp-rsiazainab",
+    "storage_bucket": "sismoapp-rsiazainab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393369358666:android:9eecea85bb46c62f5071b3",
+        "android_client_info": {
+          "package_name": "com.setiawan.sismo_rszainab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393369358666-cb9rq6njomo311udom23rmb46skqf48f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.setiawan.sismo_rszainab",
+            "certificate_hash": "2c71fca0714aad17673014d81dbfcda3fe80726d"
+          }
+        },
+        {
+          "client_id": "393369358666-97ep11qr6ub4v0ipboebnk2s158iifdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3M1bt1OwEXBqK-ujUYFOHuSPJnE_wTX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393369358666-97ep11qr6ub4v0ipboebnk2s158iifdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
